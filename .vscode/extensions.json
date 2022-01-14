@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    "johnsoncodehk.volar",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint",
+    "mrmlnc.vscode-scss",
+    "vivaxy.vscode-conventional-commits",
+    "christian-kohler.path-intellisense",
+    "voorjaar.windicss-intellisense",
+    "lokalise.i18n-ally",
+    "mikestead.dotenv",
+    "antfu.iconify",
+    "github.copilot",
+    "streetsidesoftware.code-spell-checker",
+    "formulahendry.auto-rename-tag",
+    "ms-vscode.live-server",
+    "ms-vsliveshare.vsliveshare",
+    "ms-python.python"
+  ]
+}

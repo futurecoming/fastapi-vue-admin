@@ -1,0 +1,16 @@
+*.js
+*.jsx
+*.ts
+*.tsx
+*.json
+*.png
+*.jpg
+*.eot
+*.ttf
+*.woff
+*.min.css
+
+/node_modules/**
+/public/**
+/dist/**
+/src/assets/**

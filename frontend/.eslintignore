@@ -1,0 +1,9 @@
+.idea
+.vscode
+.husky
+/node_modules/**
+/public/**
+/src/assets/**
+/dist/**
+*.md
+Dockerfile
